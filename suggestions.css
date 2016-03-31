@@ -1,0 +1,28 @@
+.form{
+	padding-left:5%;
+	padding-bottom:4em;
+	font-size:1em;
+    width:50%;
+    height:50%;
+}
+.form-field label{
+	width:20%;
+}
+.form-field input{
+	border-radius: 2px;
+	float:right;
+	margin-left: -10%;
+	width:60%;
+}
+.form-field textarea{
+	border-radius: 2px;
+	float:right;
+	width:100%;
+}
+#submit{
+	margin-top:1em;
+	position:relative;
+}
+.alert{
+	margin-top: 4em;
+}
